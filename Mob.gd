@@ -12,6 +12,3 @@ func _on_VisibilityNotifier2D_screen_exited():
 
 
 
-func _on_Mob_input_event(viewport, event, shape_idx):
-	print(event)
-_input_event()
